@@ -218,7 +218,7 @@
 							<img src="uploads/menu-img-01.jpg" class="img-fluid" alt="" />
 						</div>
 						<h2>Vegetable Name..</h2>
-						<a class="hvr-radial-in" href="#">$ 18.00</a>
+						<a class="hvr-radial-in" href="#">₹ 18.00</a>
 					</div>
                 </div><!-- end col -->
                 <div class="col-md-3">
@@ -227,7 +227,7 @@
 							<img src="uploads/menu-img-02.jpg" class="img-fluid" alt="" />
 						</div>
 						<h2>Vegetable Name..</h2>
-						<a class="hvr-radial-in" href="#">$ 20.00</a>
+						<a class="hvr-radial-in" href="#">₹ 20.00</a>
 					</div>
                 </div><!-- end col -->
 				<div class="col-md-3">
@@ -236,7 +236,7 @@
 							<img src="uploads/menu-img-03.jpg" class="img-fluid" alt="" />
 						</div>
 						<h2>Vegetable Name..</h2>
-						<a class="hvr-radial-in" href="#">$ 10.00</a>
+						<a class="hvr-radial-in" href="#">₹ 10.00</a>
 					</div>
                 </div><!-- end col -->
 				<div class="col-md-3">
@@ -245,7 +245,7 @@
 							<img src="uploads/menu-img-04.jpg" class="img-fluid" alt="" />
 						</div>
 						<h2>Vegetable Name..</h2>
-						<a class="hvr-radial-in" href="#">$ 21.00</a>
+						<a class="hvr-radial-in" href="#">₹ 21.00</a>
 					</div>
                 </div><!-- end col -->
 				<div class="col-md-3">
@@ -254,7 +254,7 @@
 							<img src="uploads/menu-img-05.jpg" class="img-fluid" alt="" />
 						</div>
 						<h2>Vegetable Name..</h2>
-						<a class="hvr-radial-in" href="#">$ 22.00</a>
+						<a class="hvr-radial-in" href="#">₹ 22.00</a>
 					</div>
                 </div><!-- end col -->
 				<div class="col-md-3">
@@ -263,7 +263,7 @@
 							<img src="uploads/menu-img-06.jpg" class="img-fluid" alt="" />
 						</div>
 						<h2>Vegetable Name..</h2>
-						<a class="hvr-radial-in" href="#">$ 24.00</a>
+						<a class="hvr-radial-in" href="#">₹ 24.00</a>
 					</div>
                 </div><!-- end col -->
 				<div class="col-md-3">
@@ -272,7 +272,7 @@
 							<img src="uploads/menu-img-07.jpg" class="img-fluid" alt="" />
 						</div>
 						<h2>Vegetable Name..</h2>
-						<a class="hvr-radial-in" href="#">$ 28.00</a>
+						<a class="hvr-radial-in" href="#">₹ 28.00</a>
 					</div>
                 </div><!-- end col -->
 				<div class="col-md-3">
@@ -281,7 +281,7 @@
 							<img src="uploads/menu-img-08.jpg" class="img-fluid" alt="" />
 						</div>
 						<h2>Vegetable Name..</h2>
-						<a class="hvr-radial-in" href="#">$ 30.00</a>
+						<a class="hvr-radial-in" href="#">₹ 30.00</a>
 					</div>
                 </div><!-- end col -->
             </div><!-- end row -->
@@ -587,7 +587,7 @@
 							<h3 class="title">Basic</h3>
 							<div class="price-value">
 								<div class="value">
-									<span class="amount">$10.00</span>
+									<span class="amount">₹10.00</span>
 									<span class="month">per Month</span>
 								</div>
 							</div>
@@ -609,7 +609,7 @@
 							<h3 class="title">Standard</h3>
 							<div class="price-value">
 								<div class="value">
-									<span class="amount">$20.00</span>
+									<span class="amount">₹20.00</span>
 									<span class="month">per Month</span>
 								</div>
 							</div>
@@ -631,7 +631,7 @@
 							<h3 class="title">Premium</h3>
 							<div class="price-value">
 								<div class="value">
-									<span class="amount">$30.00</span>
+									<span class="amount">₹30.00</span>
 									<span class="month">per Month</span>
 								</div>
 							</div>
